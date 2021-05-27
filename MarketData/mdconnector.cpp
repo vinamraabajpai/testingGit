@@ -1,6 +1,3 @@
 first change to develop branch
-second change - not yet pushed to main. dev pending.
-new dev line 2
-line 3 in dev.
-line 4 in dev.
-dev 5th change.
+second change (hotfix) - not yet pushed to main.
+hotfix line 1
