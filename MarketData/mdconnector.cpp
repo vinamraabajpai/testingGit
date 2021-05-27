@@ -1,4 +1,4 @@
 first change to develop branch
 second change (hotfix) - not yet pushed to main.
 hotfix line 1
-dev change 6
+dev change 7
